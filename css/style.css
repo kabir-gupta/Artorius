@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Dosis:wght@500&family=Lato:wght@700&family=Roboto+Slab:wght@500&display=swap');
+
+
+body{
+	background-color: white;
+}
+
+
+.image1{
+	width:500px;
+	height:500px;
+}
+
+.banner {
+ background-image:
+ linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.1) 50%),
+ url("../Images/Artorius 2.png");
+ background-size: cover;
+ background-position: center;
+ padding:200px 20px;
+ text-align: center;
+ height: 100%;
+ box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+}
+
+.banner p {
+ font-size: 30px;
+ margin-bottom: 40px;
+ margin-top:10px;
+ color: white;
+ font-family:Roboto Slab;
+}
+
+.banner h1 {
+ color:white;
+ font-family:Alfa Slab One;
+ font-size: 50px;
+}
+h2{
+	font-size: 30px;
+}
+a{
+	text-decoration:none;
+	font-size:20px;
+	color: blue;
+	font-family: Lato
+}
+a:hover{
+	color:red;
+}
+h2{
+	font-family:Roboto Slab;
+}
+p{
+	font-family: Dosis;
+	font-size: 20px
+}
+
+
+.image1{
+	width: 500px;
+	height:400px;
+}
+.description{
+	margin: 10px 20px 20px 20px;
+ 	padding:40px 20px;
+ 	text-align: center;
+ 	height: 100%;
+ 	box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+ 	border-radius: 2%;
+ 	border: rgba(0,0,0,0.1) solid 2px;
+}
+
+.profit{
+	margin: 0px 20px 20px 20px;
+ 	padding:20px 10px;
+ 	text-align: center;
+ 	height: 100%;
+ 	box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+ 	border-radius: 2%;
+ 	border: rgba(0,0,0,0.1) solid 2px;
+}
+
+.about{
+	margin: 0px 20px 20px 20px;
+ 	padding:40px 20px;
+ 	text-align: center;
+ 	height: 100%;
+ 	box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+ 	border-radius: 2%;
+ 	border: rgba(0,0,0,0.1) solid 2px;
+}
+.team{
+	align-content: center;
+	justify-content: center;
+	margin: 0px 0px 20px 0px;
+ 	padding:40px 20px;
+ 	text-align: center;
+ 	height: 100%;
+ 	box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+ 	border-radius: 2%;
+ 	border: rgba(0,0,0,0.1) solid 2px;
+}
+
+.naman{
+	height:205px;
+	width:200px;
+	margin:30px;
+}
+.marc{
+	margin:30px;
+	height:200px;
+	width:200px;
+}
+.kabir{
+	margin:30px;
+	height:200px;
+	width:180px;
+}
+
+
+.contact{
+	margin: 0px 20px 20px 20px;
+ 	padding:40px 20px;
+ 	text-align: center;
+ 	height: 100%;
+ 	box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+ 	border-radius: 2%;
+ 	border: rgba(0,0,0,0.1) solid 2px;
+}
+
+.class-img-top{
+	height:369px !important;
+}
+
